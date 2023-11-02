@@ -1,0 +1,23 @@
+.buttons > button{
+    margin: 20px;
+    padding: 5px 10px;
+}
+.buttons :nth-child(1){
+    margin: 0 20px 0 0;
+}
+.lightred{
+    background-color: rgb(252, 129, 129);
+    color: aqua;
+}
+.lightblue{
+    background-color: lightblue;
+    color: gray;
+}
+.lightgreen{
+    background-color: rgb(115, 254, 115);
+    color: rgb(0, 80, 83);
+}
+.lightyellow{
+    background-color: rgb(253, 253, 133);
+    color: brown;
+}
